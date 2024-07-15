@@ -1,7 +1,6 @@
 # yt 
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,bilibili.com
-
-PROCESS-NAME,/Applications/Maipo.app/Contents/MacOS/Maipo
-PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
-PROCESS-NAME,/Applications/WeiyunResona.app/Contents/MacOS/WeiyunResona
+PROCESS-NAME,Maipo
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,WeiyunResona
