@@ -20,6 +20,8 @@ URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|fi
 URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 PROCESS-NAME,DownloadService.exe
 PROCESS-NAME,DownloadService
+PROCESS-NAME,Thunder
+DOMAIN-SUFFIX,appcenter.ms
 
 # 360
 URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
