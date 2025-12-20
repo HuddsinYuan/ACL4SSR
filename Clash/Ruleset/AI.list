@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
