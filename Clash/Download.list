@@ -33,3 +33,9 @@ PROCESS-NAME,WeiyunResona
 PROCESS-NAME,baidunetdisk.exe
 # Xbox
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
+
+#Quark
+PROCESS-NAME,Quark.exe
+PROCESS-NAME,Quark
+PROCESS-NAME,Quark\ Helper
+
